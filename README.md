@@ -2,7 +2,7 @@
 
 ## About
 
-This is a website about...
+This is a website about the Philadelphia Eagles
 
 It will contain a variety of HTML tags and content to describe the topic.
 
@@ -10,7 +10,7 @@ The tags will include headers, paragraph, lists, images, anchors, and tables.
 
 ## Built With
 
-* HTML
+- HTML
 
 ## Roadmap
 
@@ -24,11 +24,11 @@ Day 1
 
 ## Contact
 
-Author: 
+Author: Desmon Garrison desmongarrison2@gmail.com
 
 ## Acknowledgements
 
-* [W3 Schools HTML Basics](https://www.w3schools.com/html/html_basic.asp)
-* [W3 Schools P tag](https://www.w3schools.com/tags/tag_p.asp)
-* [Semantic HTML](https://www.semrush.com/blog/semantic-html5-guide/)
-* [W3 Schools STRONG tag](https://www.w3schools.com/tags/tag_strong.asp)
+- [W3 Schools HTML Basics](https://www.w3schools.com/html/html_basic.asp)
+- [W3 Schools P tag](https://www.w3schools.com/tags/tag_p.asp)
+- [Semantic HTML](https://www.semrush.com/blog/semantic-html5-guide/)
+- [W3 Schools STRONG tag](https://www.w3schools.com/tags/tag_strong.asp)
